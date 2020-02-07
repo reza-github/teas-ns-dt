@@ -128,7 +128,7 @@ The northbound interface can be used to communicate betweern users and/or provid
 
 ## Controller
 
-The transport slice controller takes abstract requests for transport slices and implements them using a suitable underlying technology. 
+The transport slice controller takes abstract requests for transport slices and implements them using a suitable underlying technology.. 
 
 ## Mapping
 
